@@ -1,0 +1,794 @@
+{
+
+"schedule": [{
+  "date": "2047-05-17",
+  "groups": [
+    {
+    "time": "Monday",
+    "sessions": [{
+      "name": "Breakfast",
+      "timeStart": "7:00 AM",
+      "timeEnd": "8:00 AM",
+      "location": "Located at Hotel",
+      "description": "Breakfast starts at 7:00 AM and the bus leaves the hotel at 8:15 AM.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Day Student Registration",
+      "timeStart": "8:00 AM",
+      "timeEnd": "8:30 AM",
+      "location": "Located at HH Foyer",
+      "description": "Day students register for the program.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to GCUC Great Hall",
+      "location": "GCUC Great Hall",
+      "timeStart": "8:30 AM",
+      "timeEnd": "8:45 AM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Intro and Mixer Activity",
+      "timeStart": "8:45 AM",
+      "timeEnd": "9:15 AM",
+      "location": "Located at CGUC Great Hall",
+      "description": "Students will be given a short orientation and participate in a mixer activity.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Break",
+      "timeStart": "9:15 AM",
+      "timeEnd": "9:30 AM",
+      "location": "Located at CGUC Great Hall",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Design Challenge 1",
+      "location": "Located at GCUC Great Hall",
+      "description": "Knowledge Integration",
+      "speakerNames": ["Paul McKone"],
+      "timeStart": "9:30 AM",
+      "timeEnd": "11:15 AM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Expectations on Engagement & Enrichment",
+      "location": "Located at GCUC Great Hall",
+      "timeStart": "11:15 AM",
+      "timeEnd": "12:00 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to St. Jerome's Caf",
+      "location": "St. Jerome's Caf",
+      "timeStart": "12:00 PM",
+      "timeEnd": "12:15 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Lunch",
+      "location": "Located at St. Jerome's Caf",
+      "timeStart": "12:15 PM",
+      "timeEnd": "1:15 PM",
+      "description": "Students eat their lunch, socialize, and play games.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to QNC 1502",
+      "location": "QNC 1502",
+      "timeStart": "1:15 PM",
+      "timeEnd": "1:30 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Millions of Years of R&D Animal Designs Honed by Evolution",
+      "timeStart": "1:30 PM",
+      "timeEnd": "2:45 PM",
+      "speakerNames": ["Heidi Engelhardt"],
+      "description": "Students learn about a biology-related design process.",
+      "location": "Located at QNC 1502",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to MC 2038",
+      "location": "MC 2038",
+      "timeStart": "2:45 PM",
+      "timeEnd": "3:00 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Intro to Synthesis Tutorial",
+      "location": "Located at MC 2038",
+      "timeStart": "3:00 PM",
+      "timeEnd": "3:45 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to QNC 2502",
+      "location": "QNC 2502",
+      "timeStart": "3:45 PM",
+      "timeEnd": "4:00 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Skills Session: Design Process",
+      "location": "Located at QNC 2502",
+      "timeStart": "4:00 PM",
+      "timeEnd": "5:15 PM",
+      "speakerNames": ["Ed Jernigan"],
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to St. Jerome's Caf",
+      "location": "St. Jerome's Caf",
+      "timeStart": "5:15 PM",
+      "timeEnd": "5:30 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Dinner",
+      "location": "Located at St. Jerome's Caf",
+      "timeStart": "5:30 PM",
+      "timeEnd": "6:45 PM",
+      "description": "Students eat their dinner, socialize, and play games.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Travel to AL 208",
+      "location": "AL 208",
+      "timeStart": "6:45 PM",
+      "timeEnd": "7:00 PM",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Guerilla Onion Peeling",
+      "location": "Located at AL 208",
+      "timeStart": "7:00 PM",
+      "timeEnd": "9:00 PM",
+      "speakerNames": ["Tracy Jolliffe"],
+      "tracks": ["Monday"]
+    }, {
+      "name": "Return Home",
+      "timeStart": "9:00 PM",
+      "timeEnd": "9:15 PM",
+      "description": "Day students travel home and others travel through the hotel bus.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Snack and Free Time",
+      "timeStart": "9:15 PM",
+      "timeEnd": "10:30 PM",
+      "location": "Located at Hotel",
+      "description": "Students socialize, play games, or head to bed early.",
+      "tracks": ["Monday"]
+    }, {
+      "name": "Night time",
+      "timeStart": "10:30 PM",
+      "location": "Located at Hotel",
+      "tracks": ["Monday"]
+    }
+  ]
+},
+
+  {
+    "time": "Tuesday",
+    "sessions": [
+      {
+        "name": "Breakfast",
+        "timeStart": "7:00 AM",
+        "timeEnd": "8:00 AM",
+        "location": "Located at Hotel",
+        "description": "Breakfast starts at 7:00 AM and the bus leaves the hotel at 8:15 AM.",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Day Student Registration",
+        "timeStart": "8:00 AM",
+        "timeEnd": "8:30 AM",
+        "location": "Located at HH Foyer",
+        "description": "Day students register for the program.",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Travel to PHY 313",
+        "location": "Likely PHY 313",
+        "timeStart": "8:30 AM",
+        "timeEnd": "8:45 AM",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Daily Warmup & Synthesis",
+        "location": "Located at Likely PHY 313",
+        "timeStart": "8:45 AM",
+        "timeEnd": "9:00 AM",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "The Internet: A Case of Mis (?) Design",
+        "timeStart": "9:00 AM",
+        "timeEnd": "10:15 AM",
+        "description": "Computer Science",
+        "speakerNames": ["Ian McKillop"],
+        "location": "Likely located at PHY 313",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Travel to EV2 2069",
+        "timeStart": "10:15 AM",
+        "timeEnd": "10:30 AM",
+        "location": "EV2 2069",
+        "tracks": ["Tuesday"]
+      }, {
+      "name": "Design Challenge 2",
+      "location": "Located at EV2 2069",
+      "description": "Knowledge Integration",
+      "timeStart": "10:30 AM",
+      "timeEnd": "12:15 PM",
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Travel to St. Jerome's Caf",
+      "location": "St. Jerome's Caf",
+      "timeStart": "12:15 PM",
+      "timeEnd": "12:30 PM",
+      "tracks": ["Tuesday"]
+    }, {
+        "name": "Lunch",
+        "location": "Located at St. Jerome's Caf",
+        "timeStart": "12:30 PM",
+        "timeEnd": "1:30 PM",
+        "description": "Students eat their lunch, socialize, and play games.",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Travel to E5",
+        "location": "E5",
+        "timeStart": "1:30 PM",
+        "timeEnd": "1:45 PM",
+        "tracks": ["Tuesday"]
+      }, {
+      "name": "Design Centre Tour",
+      "location": "Located at E5",
+      "timeStart": "1:45 PM",
+      "timeEnd": "2:15 PM",
+      "tracks": ["Tuesday"]
+    }, {
+      "timeStart": "2:15 PM",
+      "timeEnd": "3:45 PM",
+      "location": "Located at E5",
+      "name": "Design Challenge 3: Engineering Design Project",
+      "tracks": ["Tuesday"]
+      }, {
+        "name": "Travel to QNC 2502",
+        "location": "QNC 2502",
+        "timeStart": "3:45 PM",
+        "timeEnd": "4:00 PM",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "To Be Determined",
+        "description": "Unknown Event",
+        "location": "Location to be determined",
+        "timeStart": "4:00 PM",
+        "timeEnd": "5:15 PM",
+        "tracks": ["Tuesday"]
+      }, {
+        "name": "Travel to St. Jerome's Caf",
+        "location": "St. Jerome's Caf",
+        "timeStart": "5:15 PM",
+        "timeEnd": "5:30 PM",
+        "tracks": ["Tuesday"]
+      }, {
+      "name": "Dinner",
+      "location": "Located at St. Jerome's Caf",
+      "timeStart": "5:30 PM",
+      "timeEnd": "6:45 PM",
+      "description": "Students eat their dinner, socialize, and play games.",
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Travel to  EV2 2002",
+      "location": " EV2 2002",
+      "timeStart": "6:45 PM",
+      "timeEnd": "7:00 PM",
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Design Challenge 4",
+      "location": "Located at EV2 2002",
+      "timeStart": "7:00 PM",
+      "timeEnd": "9:00 PM",
+      "description": "Knowledge Integration",
+      "speakerNames": ["Kim Boucher"],
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Return Home",
+      "timeStart": "9:00 PM",
+      "timeEnd": "9:15 PM",
+      "description": "Day students travel home and others travel through the hotel bus.",
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Snack and Free Time",
+      "timeStart": "9:15 PM",
+      "timeEnd": "10:30 PM",
+      "location": "Located at Hotel",
+      "description": "Students socialize, play games, or head to bed early.",
+      "tracks": ["Tuesday"]
+    }, {
+      "name": "Night time",
+      "timeStart": "10:30 PM",
+      "location": "Located at Hotel",
+      "tracks": ["Tuesday"]
+    }
+
+  ]
+},
+
+
+
+{
+  "time": "Wednesday",
+  "sessions": [
+    {
+      "name": "Breakfast",
+      "timeStart": "7:00 AM",
+      "timeEnd": "8:00 AM",
+      "location": "Located at Hotel",
+      "description": "Breakfast starts at 7:00 AM and the bus leaves the hotel at 8:15 AM.",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Day Student Registration",
+      "timeStart": "8:00 AM",
+      "timeEnd": "8:30 AM",
+      "location": "Located at HH Foyer",
+      "description": "Day students register for the program.",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Travel to RCH 112",
+      "location": "RCH 112",
+      "timeStart": "8:30 AM",
+      "timeEnd": "8:45 AM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Daily Warmup & Synthesis",
+      "location": "Located at RCH 112",
+      "timeStart": "8:45 AM",
+      "timeEnd": "9:00 AM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Exploring the Psychological Impacts of Urban Design",
+      "speakerNames": ["Robin Mazumder"],
+      "description": "Cognitive Neuroscience",
+      "location": "Located at RCH 112",
+      "timeStart": "9:00 AM",
+      "timeEnd": "10:15 AM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Travel to Your Small Group Session",
+      "timeStart": "10:15 AM",
+      "timeEnd": "10:30 AM",
+      "tracks": ["Wednesday"]
+    }, {
+    "name": "Small Group Session",
+  "description": "Design of a Quantum Cryptography System, Fiction Writing Workshop, Machine Learning for Pattern Recognition in A.I., Photogram Darkroom Workshop, Mindfulness: A Stress Reduction Program & Designing Inclusivity.",
+  "timeStart": "10:30 AM",
+  "timeEnd": "12:15 PM",
+  "tracks": ["Wednesday"]
+}, {
+  "name": "Travel to St. Jerome's Caf",
+  "location": "St. Jerome's Caf",
+  "timeStart": "12:15 PM",
+  "timeEnd": "12:30 PM",
+  "tracks": ["Wednesday"]
+}, {
+    "name": "Lunch",
+    "location": "Located at St. Jerome's Caf",
+    "timeStart": "12:30 PM",
+    "timeEnd": "1:30 PM",
+    "description": "Students eat their lunch, socialize, and play games.",
+    "tracks": ["Wednesday"]
+  }, {
+    "name": "Travel to MC 1056/ESC 319",
+    "location": "MC 1056/ESC 319",
+    "timeStart": "1:30 PM",
+    "timeEnd": "1:45 PM",
+    "tracks": ["Wednesday"]
+  }, {
+    "name": "Velocity Science Start-up Incubator Tour",
+    "location": "Located at MC 1056/ESC 319",
+    "timeStart": "1:45 PM",
+    "timeEnd": "3:00 PM",
+    "tracks": ["Wednesday"]
+  }, {
+    "name": "Travel to STC 0060",
+    "location": "STC 0060",
+    "timeStart": "3:00 PM",
+    "timeEnd": "3:15 PM",
+    "tracks": ["Wednesday"]
+  }, {
+    "name": "A Tour of the Road to Autonomous Cars",
+    "location": "Located at STC 0060",
+    "timeStart": "3:15 PM",
+    "timeEnd": "4:30 PM",
+    "tracks": ["Wednesday"]
+    }, {
+      "name": "Travel to SJ1 3014",
+      "location": "SJ1 3014",
+      "timeStart": "4:30 PM",
+      "timeEnd": "4:45 PM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Student Panel",
+      "location": "Located at SJ1 3014",
+      "timeStart": "4:45 PM",
+      "timeEnd": "5:15 PM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Travel to St. Jerome's Caf",
+      "location": "St. Jerome's Caf",
+      "timeStart": "5:15 PM",
+      "timeEnd": "5:30 PM",
+      "tracks": ["Wednesday"]
+    },
+    {
+      "name": "Dinner",
+      "location": "Located at St. Jerome's Caf",
+      "timeStart": "5:30 PM",
+      "timeEnd": "6:45 PM",
+      "description": "Students eat their dinner, socialize, and play games.",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Travel to Velocity Building",
+    "location": "Velocity",
+      "timeStart": "6:45 PM",
+      "timeEnd": "7:00 PM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Velocity Funds: $5K Qualifier Pitches",
+      "description": "University of Waterloo: Student Tech Start-Ups",
+      "location": "Located at Velocity",
+      "timeStart": "7:00 PM",
+      "timeEnd": "10:00 PM",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Return Home",
+      "timeStart": "10:00 PM",
+      "timeEnd": "10:15 PM",
+      "description": "Day students travel home and others travel through the hotel bus.",
+      "tracks": ["Wednesday"]
+    }, {
+      "name": "Night time",
+      "timeStart": "10:15 PM",
+      "location": "Located at Hotel",
+      "tracks": ["Wednesday"]
+    }]},
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "time": "Thursday",
+        "sessions": [
+          {
+            "name": "Breakfast",
+            "timeStart": "7:00 AM",
+            "timeEnd": "8:00 AM",
+            "location": "Located at Hotel",
+            "description": "Breakfast starts at 7:00 AM and the bus leaves the hotel at 8:15 AM.",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Day Student Registration",
+            "timeStart": "8:00 AM",
+            "timeEnd": "8:30 AM",
+            "location": "Located at HH Foyer",
+            "description": "Day students register for the program.",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Travel to PHYS 313",
+            "location": "PHYS 313",
+            "timeStart": "8:30 AM",
+            "timeEnd": "8:45 AM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Daily Warmup & Synthesis",
+            "location": "Located at PHYS 313",
+            "timeStart": "8:45 AM",
+            "timeEnd": "9:00 AM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Education by Design",
+            "timeStart": "9:00 AM",
+            "timeEnd": "10:15 AM",
+            "description": "Knowledge Integration",
+            "speakerNames": ["Ed Jernigan"],
+            "location": "Located at PHYS 313",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Travel to Your Small Group Session",
+            "timeStart": "10:15 AM",
+            "timeEnd": "10:30 AM",
+            "tracks": ["Thursday"]
+          }, {
+          "name": "Small Group Sessions",
+        "description": "Nature: The Master Designer, Design of Telescopes and Instruments, Design of a Quantum Cryptography System, Music, Synthesizers, and DIY Touch Based Interfaces, Designing the Way Forward after the Truth and Reconciliation Report, & How does the Body Provide Energy in the Working Muscle during Exercise or Work?",
+        "timeStart": "10:30 AM",
+        "timeEnd": "12:15 PM",
+        "tracks": ["Thursday"]
+      }, {
+        "name": "Travel to St. Jerome's Caf",
+        "location": "St. Jerome's Caf",
+        "timeStart": "12:15 PM",
+        "timeEnd": "12:30 PM",
+        "tracks": ["Thursday"]
+      }, {
+          "name": "Lunch",
+          "location": "Located at St. Jerome's Caf",
+          "timeStart": "12:30 PM",
+          "timeEnd": "1:30 PM",
+          "description": "Students eat their lunch, socialize, and play games.",
+          "tracks": ["Thursday"]
+        }, {
+          "name": "Travel to SJ1 3014",
+          "location": "SJ1 3014",
+          "timeStart": "1:30 PM",
+          "timeEnd": "1:45 PM",
+          "tracks": ["Thursday"]
+        }, {
+          "name": "Museum Talk",
+          "description": "Knowledge Integration",
+          "speakerNames": ["Rob Gorbet"],
+          "location": "Located at SJ1 3014",
+          "timeStart": "1:45 PM",
+          "timeEnd": "2:45 PM",
+          "tracks": ["Thursday"]
+        }, {
+          "name": "Travel",
+          "timeStart": "2:45 PM",
+          "timeEnd": "3:00 PM",
+          "location": "Various Locations",
+          "tracks": ["Thursday"]
+        }, {
+          "name": "KI-X Museum Exhibits & Campus Walkabout",
+          "location": "Located at STC 0060",
+          "timeStart": "3:00 PM",
+          "timeEnd": "4:45 PM",
+          "tracks": ["Thursday"]
+          }, {
+            "name": "Student Panel",
+            "location": "Located at STC 0060",
+            "timeStart": "4:45 PM",
+            "timeEnd": "5:15 PM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Travel to St. Jerome's Caf",
+            "location": "St. Jerome's Caf",
+            "timeStart": "5:15 PM",
+            "timeEnd": "5:30 PM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Dinner",
+            "location": "Located at St. Jerome's Caf",
+            "timeStart": "5:30 PM",
+            "timeEnd": "6:45 PM",
+            "description": "Students eat their dinner, socialize, and play games.",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Travel to CGUC",
+            "location": "CGUC",
+            "timeStart": "6:45 PM",
+            "timeEnd": "7:00 PM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Design Challenge 5",
+            "location": "Located at GCUC",
+            "timeStart": "7:00 PM",
+            "timeEnd": "9:00 PM",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Return Home",
+            "timeStart": "9:00 PM",
+            "timeEnd": "9:15 PM",
+            "description": "Day students travel home and others travel through the hotel bus.",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Snack and Free Time",
+            "timeStart": "9:15 PM",
+            "timeEnd": "10:30 PM",
+            "location": "Located at Thursday",
+            "description": "Students socialize, play games, or head to bed early.",
+            "tracks": ["Thursday"]
+          }, {
+            "name": "Night time",
+            "timeStart": "10:30 PM",
+            "location": "Located at Hotel",
+            "tracks": ["Thursday"]
+          }]},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                {
+                    "time": "Friday",
+                    "sessions": [
+                      {
+                        "name": "Breakfast",
+                        "timeStart": "7:00 AM",
+                        "timeEnd": "8:00 AM",
+                        "location": "Located at Hotel",
+                        "description": "Luggage to bus by 8:00 AM. Bus leaves hotel at 8:15 AM.",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Day Student Registration",
+                        "timeStart": "8:00 AM",
+                        "timeEnd": "8:30 AM",
+                        "location": "Located at HH Foyer",
+                        "description": "Day students register for the program.",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Travel to RCH 112",
+                        "location": "PHYS 313",
+                        "timeStart": "8:30 AM",
+                        "timeEnd": "8:45 AM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Daily Warmup & Synthesis",
+                        "location": "Located at PHYS 313",
+                        "timeStart": "8:45 AM",
+                        "timeEnd": "9:00 AM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Writing Workshop: How to Communicate with Your Professors",
+                        "timeStart": "9:00 AM",
+                        "timeEnd": "11:00 AM",
+                        "description": "uWaterloo Writing Centre",
+                        "location": "Located at PHYS 313",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Break",
+                        "location": "Located at PHYS 313",
+                        "timeStart": "11:00 AM",
+                        "timeEnd": "11:15 AM",
+                        "tracks": ["Friday"]
+                      }, {
+                    "name": "Creativity + Collaboration",
+                    "description": "Knowledge Integration",
+                    "speakerNames": ["Allyson Stokes"],
+                    "timeStart": "11:15 AM",
+                    "timeEnd": "12:15 PM",
+                    "tracks": ["Friday"]
+                  }, {
+                    "name": "Travel to St. Jerome's Caf",
+                    "location": "St. Jerome's Caf",
+                    "timeStart": "12:15 PM",
+                    "timeEnd": "12:30 PM",
+                    "tracks": ["Friday"]
+                  }, {
+                      "name": "Lunch",
+                      "location": "Located at St. Jerome's Caf",
+                      "timeStart": "12:30 PM",
+                      "timeEnd": "1:30 PM",
+                      "description": "Students eat their lunch, socialize, and play games.",
+                      "tracks": ["Friday"]
+                    }, {
+                      "name": "Visit & Travel",
+                      "description": "Visit uWaterloo Store & Visitor's Centre",
+                      "timeStart": "1:30 PM",
+                      "timeEnd": "2:15 PM",
+                      "tracks": ["Friday"]
+                    }, {
+                      "name": "Travel to EV3 1408",
+                      "timeStart": "2:15 PM",
+                      "location": "EV3 1408",
+                      "timeEnd": "2:30 PM",
+                      "tracks": ["Friday"]
+                    }, {
+                      "name": "Knowledge Integration Seminar",
+                      "description": "EMPWR Foundation",
+                      "speakerNames": ["Ben Fanelli"],
+                      "location": "Located at EV3 1408",
+                      "timeStart": "2:30 PM",
+                      "timeEnd": "3:30 PM",
+                      "tracks": ["Friday"]
+                    }, {
+                      "name": "Travel to EV2 2069",
+                      "location": "EV2 2069",
+                      "timeStart": "3:30 PM",
+                      "timeEnd": "3:45 PM",
+                      "tracks": ["Friday"]
+                    }, {
+                      "name": "Postcards, Synthesis and Group Reflections",
+                      "location": "Located at EV2 2069",
+                      "timeStart": "3:45 PM",
+                      "timeEnd": "4:45 PM",
+                      "tracks": ["Friday"]
+                      }, {
+                        "name": "Closing Ceremony",
+                        "location": "Located at EV2 2069",
+                        "timeStart": "4:45 PM",
+                        "timeEnd": "5:15 PM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Travel to St. Jerome's Caf",
+                        "location": "St. Jerome's Caf",
+                        "timeStart": "5:15 PM",
+                        "timeEnd": "5:30 PM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Farewell Dinner",
+                        "location": "Located at St. Jerome's Caf",
+                        "timeStart": "5:30 PM",
+                        "timeEnd": "6:15 PM",
+                        "description": "Students eat their last dinner with other Waterloo Unlimited participants.",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Travel to Conrad Grebel",
+                        "location": "Conrad Grebel",
+                        "timeStart": "6:15 PM",
+                        "timeEnd": "6:30 PM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Pick Up At Conrad Grebel",
+                        "location": "Located at Conrad Grebel off Westmount Road",
+                        "timeStart": "6:30 PM",
+                        "timeEnd": "7:30 PM",
+                        "tracks": ["Friday"]
+                      }, {
+                        "name": "Travel Home",
+                        "timeStart": "7:30 PM",
+                        "tracks": ["Friday"]
+                      }]}]
+}],
+
+
+"speakers": [{
+  "name": "Tracy Jolliffe",
+  "profilePic": "assets/img/speakers/tracy.jpg",
+  "about": "Organizes this amazing program for you—from lining up interesting talks and workshops to the nitty-gritty details of room bookings and ordering food. Studied Recreation and Business, Honours Bachelor of Arts (BA) at the University of Waterloo. She loves local and yummy foods, her family (hubby + 2 kids + dog), art projects with her kids, ultimate Frisbee and yoga. She's currently reading Shop Class as Sountcraft: An inquiry into the Value of Work (Matt B. Crawford), UpstreamSelected: Essays (Mary Oliver). If you need to contact her, please call 519-888-4567 ext. 35176.",
+  "location": "EVI 205",
+  "email": "tljolliffe@uwaterloo.ca",
+  "phone": "519-888-4567 x 35176"
+}, {
+  "name": "Ed Jernigan",
+  "profilePic": "assets/img/speakers/ed.jpg",
+  "about": "An educator for 40 years, as professor and former chair of Systems Design Engineering and as professor and founding director of the Department of Knowledge Integration at the University of Waterloo, I joined Waterloo in 1976 after completing BS, MS and PhD degrees in Electrical Engineering at MIT . My interests include perception in the broadest sense, in particular vision and image processing, pattern recognition, non-linear and adaptive systems, and knowledge integration an design. I have developed and taught courses in linear systems and signals, pattern recognition, and image processing at both undergraduate and graduate levels in Systems Design Engineering. Beginning in 2008 I reinvented myself as a teacher, developing and teaching courses in design thinking and real world problem solving for Knowledge Integration. I have been recognized with the Distinguished Teacher Award of the University of Waterloo and the Teaching Excellence Award for the Faculty of Engineering. My involvement with high school enrichment began as Program Director for the SHAD summer enrichment program, 1984-2015. I began building Waterloo Unlimited, a university wide enrichment program for exceptional high school students, in 2004. I see Waterloo's new Knowledge Integration (BKI) program, started in 2008, as the culmination of 35 years of education by design, providing an alternative to narrowly specialized undergraduate programs for students who want a framework for knowing their world and the skills to make a difference that transcends disciplines--who want to be problem solvers and change makers without boundaries. I retired in August 2016, and continue to be engaged in outreach, occasional teaching, and work on a new course to develop deep numeracy, or quantitative thinking around models of patterns in time, patterns in space, and patterns in data. Also grandsons, travel, and life on the Nith River in rural Ontario...",
+  "location": "EVI 212",
+  "email": "jernigan@uwaterloo.ca",
+  "phone": "(519) 888-4644 x 84644"
+}, {
+  "name": "Kim Boucher",
+  "profilePic": "assets/img/speakers/kim.jpg",
+  "about": "Kim coordinates the administrative details to keep the Department of Knowledge Integration running smoothly, including admissions to the BKI and coordinating the KI seminars. She also applies her background in Chemical Engineering and Education in her work with high school students of exceptional potential in Waterloo Unlimited and SHAD.",
+  "location": "EV1 207",
+  "email": "kim.boucher@uwaterloo.ca",
+  "phone": "519-888-4567 x 38573"
+}, {
+  "name": "Jim Gardener",
+  "profilePic": "assets/img/speakers/jim.jpg",
+  "about": "Jim is working on many interesting and engaging science fiction works.",
+  "location": "Unknown",
+  "email": "Unknown",
+  "phone": "Unknown"
+}, {
+  "name": "Paul McKone",
+  "profilePic": "assets/img/speakers/paul.jpg",
+  "about": "I make things better: through professional and personal relationships; with building, repairing and repurposing; by teaching others to do likewise.",
+  "location": "EV1 209",
+  "email": "pdmckone@uwaterloo.ca",
+  "phone": "519-888-4567 x 35140"
+}, {
+  "name": "Chloé St.Amand",
+  "profilePic": "assets/img/speakers/chloe.jpg",
+  "about": "Chloe is a student at the University of Waterloo in the Knowledge Integration program.",
+ "location": "Unknown",
+  "email": "Unknown",
+  "phone": "Unknown"
+}, {
+  "name": "Claire DesRosiers",
+  "profilePic": "assets/img/speakers/claire.jpg",
+  "about": "Claire is a student at the University of Waterloo in the Knowledge Integration program.",
+  "location": "Unknown",
+  "email": "Unknown",
+  "phone": "Unknown"
+}],
+
+
+  "map": [{
+    "name": "University of Waterloo",
+    "lat": 43.4723,
+    "lng": -80.5449,
+    "center": true
+  }]
+
+}
